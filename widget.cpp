@@ -6,6 +6,7 @@ Widget::Widget(QWidget *parent) :
     ui(new Ui::Widget)
 {
     ui->setupUi(this);
+    QString str = "";
 }
 
 Widget::~Widget()
