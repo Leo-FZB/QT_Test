@@ -29,3 +29,6 @@ void func4() {
 void func5() {
     //删除凭据
 }
+void func6() {
+    //重新拉取
+}
