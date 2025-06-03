@@ -13,3 +13,7 @@ int main(int argc, char* argv[])
 void func1() {
     //公司电脑
 }
+
+void func2() {
+
+}
