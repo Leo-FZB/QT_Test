@@ -18,20 +18,6 @@ void func2() {
 
 }
 
-void func3() {
-    //虚拟机win10
-}
-
-void func4() {
-    //主机
-}
-
-void func5() {
-    //删除凭据
-}
-void func6() {
-    //重新拉取
-}
-void func7() {
-    //Git bash update
+void func8() {
+    //删除所有凭据
 }
