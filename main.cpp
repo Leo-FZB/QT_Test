@@ -32,3 +32,6 @@ void func5() {
 void func6() {
     //重新拉取
 }
+void func7() {
+    //Git bash update
+}
