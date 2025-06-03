@@ -18,6 +18,10 @@ void func2() {
 
 }
 
-void func3(){
-//虚拟机win10
+void func3() {
+    //虚拟机win10
+}
+
+void func4() {
+    //主机
 }
