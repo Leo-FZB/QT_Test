@@ -25,3 +25,7 @@ void func3() {
 void func4() {
     //主机
 }
+
+void func5() {
+    //删除凭据
+}
