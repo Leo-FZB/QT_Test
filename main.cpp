@@ -21,3 +21,6 @@ void func2() {
 void func8() {
     //删除所有凭据
 }
+void func8() {
+    //重新修改vm_win10中的邮箱
+}
