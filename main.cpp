@@ -1,3 +1,4 @@
+//update in xiaoming-branch
 #include "widget.h"
 #include <QApplication>
 
